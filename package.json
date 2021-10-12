@@ -1,16 +1,16 @@
 {
-  "name": "hw_11",
+  "name": "hw_10",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://tetianabron.github.io/hw_11",
+  "homepage": "https://tetianabron.github.io/hw_10",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /hw_11/"
+    "build": "parcel build src/*.html --public-url /hw_10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TetianaBron/hw_11.git"
+    "url": "git+https://github.com/TetianaBron/hw_10.git"
   },
   "keywords": [],
   "author": "Tetiana Bronitska <tanya_nest@ukr.net>",
