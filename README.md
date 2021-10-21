@@ -1,3 +1,3 @@
 # hw_10
 
-Using hbs, localstorage
+Using hbs, localstorage, Parcel
